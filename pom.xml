@@ -203,13 +203,7 @@
         <version>1.8.5</version>
         <scope>test</scope>
       </dependency>
-    </dependencies>
-       <distributionManagement>
-        <repository>
-         <id>releases</id>
-         <url>http://44.200.203.240:8081/nexus/content/repositories/releases</url>
-        </repository>
-       </distributionManagement>    
+    </dependencies>  
   </dependencyManagement>
 
   <scm>
